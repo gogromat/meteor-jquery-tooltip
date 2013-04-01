@@ -1,0 +1,9 @@
+{
+    "name": "meteor-jquery-tooltip",
+    "description": "A simple tooltip library for jQuery.",
+    "homepage": "https://github.com/gogromat/meteor-jquery-tooltip",
+    "author": "GogromaT",
+    "version": "0.0.1",
+    "git": "https://github.com/gogromat/meteor-jquery-tooltip/meteor.git",
+    "packages": {}
+}
